@@ -1,0 +1,17 @@
+# Site settings
+title: flyingrub
+header-img: img/home-bg.jpg
+email: flyinggrub@gmail.com
+description: "A minimalist's blog"
+baseurl: ""
+url: "http://flyingrub.github.io"
+twitter_username: burgniylf
+github_username: flyingrub
+soundcloud_username: flyingrub
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
