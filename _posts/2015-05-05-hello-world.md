@@ -5,7 +5,7 @@ subtitle:   "My first post here..."
 date:       2015-05-05 23:00:00
 author:     "flyingrub"
 header-img: "img/post-bg-06.jpg"
-category: gnome
+category: hello
 ---
 
 # Hello world !
