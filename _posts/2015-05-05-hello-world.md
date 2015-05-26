@@ -22,8 +22,6 @@ print("hello world !")
 sys.exit(0)
 ```
 
-I want to warn you that i will be very concise in my posts. Mainly because i like being minimalist and i don't know how to do otherwise :).
-
 
 #### This is a test post.
 
